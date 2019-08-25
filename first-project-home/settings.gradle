@@ -1,2 +1,4 @@
 rootProject.name = 'first-project'
+includeFlat 'first-project-home-wiki'
+findProject(':first-project-home-wiki')?.name = 'first-project-home'
 

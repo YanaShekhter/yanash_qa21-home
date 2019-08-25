@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project-home.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2085277327/first-project.first-project-home.iml" filepath="$PROJECT_DIR$/.idea/modules/2085277327/first-project.first-project-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2085277327/first-project.first-project-home.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2085277327/first-project.first-project-home.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2085277327/first-project.first-project-home.test.iml" filepath="$PROJECT_DIR$/.idea/modules/2085277327/first-project.first-project-home.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa-21.first-project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa-21.first-project.main.iml" />
